@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mnprasetya
+- 👀 I’m interested in WebDev
+- 🌱 I’m currently learning javascript
+- 💞️ I’m new in Code
+- 📫 nice to see you~
