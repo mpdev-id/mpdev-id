@@ -8,7 +8,7 @@
 (
   {
        "Name": "Median Prasetya",
-       "Status": "Offile",
+       "Status": "Offline",
        "Alamat": "Cilegon, Indonesia",
        "Program": "diet"
   }
