@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines='don't+forget+to+said+Alhamdulillah+for+today.....!!'!+)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines='Sudah+bersyukur+hari+ini...?!!')
 
 ---
 
