@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines='live well ..')
+![](https://komarev.com/ghpvc/?username=mpdev-id&style=for-the-badge)
 
 ---
 
