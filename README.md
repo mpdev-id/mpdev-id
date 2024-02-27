@@ -2,8 +2,6 @@
 
 ---
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" />
-
 ```bash
 (
   {
@@ -14,10 +12,6 @@
   }
 )
 ```
-
-- 👋 Hi, ayo belajar bareng-bareng.
-- 👀 I’m interested in WebDev
-- 🌱 I’m currently learning frontend for web
 - 💞️ I’m new in Code
 - 📫 nice to see you~
 
@@ -32,15 +26,8 @@
 </p>
 
 ---
-
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-![Metrics](https://metrics.lecoq.io/mpdev-id?)
-</details> 
-
 <sosmed>
     
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/mpdev-id) [![](https://img.shields.io/badge/Twitter-yellow?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/mnprasetya)[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/medianprasetya)
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/medianprasetya) [![](https://img.shields.io/badge/Twitter-yellow?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/mnprasetya)[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/medianprasetya)
 
 </sosmed>
