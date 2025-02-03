@@ -7,13 +7,10 @@
   {
        "Name": "Median Prasetya",
        "Status": "Offline",
-       "Alamat": "Cilegon, Indonesia",
-       "Program": "diet"
+       "Country": "Indonesia"
   }
 )
 ```
-- 💞️ I’m new in Code
-- 📫 nice to see you~
 
 <p align="center">
     <img src="https://img.shields.io/badge/Python-v3.7-blue" />
